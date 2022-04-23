@@ -53,6 +53,10 @@ const getBlogContent = async () => {
 
 getBlogContent();
 
+const affiliateRedirect = () => {
+  // resolve bug
+}
+
 // Cambio back
 // Cambio back 2
 // Cambio back 3
